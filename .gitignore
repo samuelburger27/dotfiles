@@ -1,0 +1,14 @@
+/*
+
+
+!.gitignore
+!README.md
+!.zshenv
+!.zshrc
+!.config/
+!.config/nvim/
+
+**/.DS_Store
+
+
+
